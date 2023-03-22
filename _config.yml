@@ -1,0 +1,17 @@
+# Info
+title: ibdocs.org
+
+# Compression config
+compress_html:
+    comments: all
+
+# Excludes non-related files
+exclude:
+  - CNAME
+  - .gitignore
+  - LICENSE
+  - README.md
+
+# Plugins for Jekyll
+plugins:
+  - jekyll-sitemap
