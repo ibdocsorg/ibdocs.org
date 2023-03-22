@@ -338,13 +338,12 @@
     },
     "Others": {
         "Useful Links": {
-            "QuestionBanks V5": "https://qbv5.ibsupport.pm",
-            "QuestionBanks V4 (outdated)": "https://qb.ibsupport.pm"
+            "QuestionBanks V5": "https://gateway.ibdocs.org/IB%20QUESTIONBANKS/5.%20Fifth%20Edition%20-%20TOPIC/",
+            "QuestionBanks V4 (outdated)": "https://gateway.ibdocs.org/IB%20QUESTIONBANKS/4.%20Fourth%20Edition%20-%20TOPIC/"
         },
         "Resources": {
             "MYP": "https://gateway.ibdocs.org/MYP/",
             "PYP": "https://gateway.ibdocs.org/PYP/",
-            "RV": "https://gateway.ibdocs.org/R-V/",
             "theoryofknowledge.net": "https://gateway.ibdocs.org/theoryofknowledge.net/"
         }
     }
