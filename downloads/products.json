@@ -1,0 +1,351 @@
+{
+    "IB BOOKS": {
+        "Core - Extended Essay": {
+            "HODDER": "https://gateway.ibdocs.org/IB%20BOOKS/Core%20-%20Extended%20Essay/HODDER/",
+            "OXFORD": "https://gateway.ibdocs.org/IB%20BOOKS/Core%20-%20Extended%20Essay/OXFORD/",
+            "VARIUS": "https://gateway.ibdocs.org/IB%20BOOKS/Core%20-%20Extended%20Essay/VARIOUS/"
+        },
+        "Group 1 - Studies in Language and Literature": {
+            "Chinese A": "https://gateway.ibdocs.org/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Chinese%20A/",
+            "English A Language and Literature": "https://gateway.ibdocs.org/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20Language%20and%20Literature/",
+            "English A Literature": "https://gateway.ibdocs.org/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20Literature/",
+            "Language A": "https://gateway.ibdocs.org/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A/",
+            "Spanish A": "https://gateway.ibdocs.org/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Spanish%20A%20Literature/"
+        },
+        "Group 2 - Language Acquisition": {
+            "English B": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/English%20B/",
+            "French ab initio": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/French%20ab%20initio/",
+            "French B": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/French%20B/",
+            "German B": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/German%20B/",
+            "Mandarin Chinese ab initio": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Mandarin%20Chinese%20ab%20initio/",
+            "Mandarin Chinese B": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Mandarin%20Chinese%20B/",
+            "Spanish ab initio": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Spanish%20ab%20initio/",
+            "Spanish B": "https://gateway.ibdocs.org/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Spanish%20B/"
+        },
+        "Group 3 - Individuals and Societies": {
+            "Business Management": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/Business%20Management/",
+            "Economics": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/Economics/",
+            "Geography": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/Geography/",
+            "Global Politics": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/Global%20Politics/",
+            "History": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/History/",
+            "ITGS": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/ITGS/",
+            "Philosophy": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/Philosophy/",
+            "Psychology": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/Psychology/",
+            "Social and Cultural Anthropology": "https://gateway.ibdocs.org/IB%20BOOKS/Group%203%20-%20Individuals%20and%20Societies/Social%20and%20Cultural%20Anthropology/"
+        },
+        "Group 4 - Sciences": {
+            "Biology": "https://gateway.ibdocs.org/IB%20BOOKS/Group%204%20-%20Sciences/Biology/",
+            "Chemistry": "https://gateway.ibdocs.org/IB%20BOOKS/Group%204%20-%20Sciences/Chemistry/",
+            "Computer Science": "https://gateway.ibdocs.org/IB%20BOOKS/Group%204%20-%20Sciences/Computer%20Science/",
+            "Design Technology": "https://gateway.ibdocs.org/IB%20BOOKS/Group%204%20-%20Sciences/Design%20Technology/",
+            "Environmental Systems and Societies": "https://gateway.ibdocs.org/IB%20BOOKS/Group%204%20-%20Sciences/Environmental%20Systems%20and%20Societies/",
+            "Physics": "https://gateway.ibdocs.org/IB%20BOOKS/Group%204%20-%20Sciences/Physics/",
+            "Sports, Exercise and Health Science": "https://gateway.ibdocs.org/IB%20BOOKS/Group%204%20-%20Sciences/Sports%2C%20Exercise%20and%20Health%20Science/"
+        },
+        "Group 5 - Mathematics": {
+            "AA and AI": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/AA%20and%20AI/",
+            "Background Knowledge": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/Background%20Knowledge/",
+            "Further Mathematics": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/Further%20Mathematics/",
+            "IB Calculator Guides": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/IB%20Calculator%20Guides/",
+            "Mathematical Studies": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/Mathematical%20Studies/",
+            "Mathematics Higher Level": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/Mathematics%20Higher%20Level/",
+            "Mathematics Standard Level": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/Mathematics%20Standard%20Level/",
+            "Various IB-related books": "https://gateway.ibdocs.org/IB%20BOOKS/Group%205%20-%20Mathematics/Various%20IB-related%20Books/"
+        },
+        "Group 6 - The Arts": {
+            "Music": "https://gateway.ibdocs.org/IB%20BOOKS/Group%206%20-%20The%20Arts/Music/",
+            "Visual Arts": "https://gateway.ibdocs.org/IB%20BOOKS/Group%206%20-%20The%20Arts/Visual%20Arts/"
+        }
+    },
+    "IB PAST PAPERS": {
+        "SUBJECT": {
+            "Group 1 - Studies in Language and Literature": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%201%20-%20Studies%20in%20Language%20and%20Literature/",
+            "Group 2 - Language Acquisition": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%202%20-%20Language%20Acquisition/",
+            "Group 3 - Individuals and Societies": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%203%20-%20Individuals%20and%20Societies/",
+            "Group 4 - Sciences": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%204%20-%20Sciences/",
+            "Group 5 - Mathematics": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%205%20-%20Mathematics/",
+            "Group 6 - The Arts": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%206%20-%20The%20Arts/"
+        },
+        "YEAR": {
+            "Before N16 Exams": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/",
+            "Novemeber 2016": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2016%20Examination%20Session/November%202016%20Examination%20Session/",
+            "May 2017": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2017%20Examination%20Session/May%202017%20Examination%20Session/",
+            "November 2017": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2017%20Examination%20Session/November%202017%20Examination%20Session/",
+            "May 2018": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2018%20Examination%20Session/May%202018%20Examination%20Session/",
+            "November 2018": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2018%20Examination%20Session/November%202018%20Examination%20Session/",
+            "May 2019": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2019%20Examination%20Session/May%202019%20Examination%20Session/",
+            "November 2019": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2019%20Examination%20Session/November%202019%20Examination%20Session/",
+            "May 2020 (CANCELLED)": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/",
+            "November 2020": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2020%20Examination%20Session/November%202020%20Examination%20Session/",
+            "May 2021": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2021%20Examination%20Session/May%202021%20Examination%20Session/",
+            "November 2021": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2021%20Examination%20Session/November%202021%20Examination%20Session/",
+            "May 2022": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2022%20Examination%20Session/May%202022%20Examination%20Session/",
+            "November 2022": "https://gateway.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/2022%20Examination%20Session/November%202022%20Examination%20Session/"
+        }
+    },
+    "IB SPECIMEN PAPERS": {
+        "Core - Theory of Knowledge": {
+            "Specimen Titles 2016 - Chinese": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Chinese.pdf",
+            "Specimen Titles 2016 - English": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20English.pdf",
+            "Specimen Titles 2016 - French": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20French.pdf",
+            "Specimen Titles 2016 - German": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20German.pdf",
+            "Specimen Titles 2016 - Japanese": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Japanese.pdf",
+            "Specimen Titles 2016 - Spanish": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Spanish.pdf"
+        },
+        "Group 1 - Studies in Language and Literature": {
+            "English A - Literature & Language and Literature": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20-%20Literature%20and%20Language%20and%20Literature/",
+            "French A - Literature & Language and Literature": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Japanese A - Language and Literature": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Language%20and%20Literature/",
+            "Japanese A - Literature": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Literature/",
+            "Spanish A - Literature & Language and Literature": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Spanish%20A%20-%20Literature%20and%20Language%20and%20Literature/"
+        },
+        "Group 2 - Language Acquisition": {
+            "Arabic ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20ab%20initio/",
+            "Arabic B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20B/",
+            "Chinese (Cantonese) B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Cantonese%29%20B/",
+            "Chinese (Mandarin) ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Mandarin%29%20ab%20initio/",
+            "Chinese (Mandarin) B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Mandarin%29%20B/",
+            "Chinese B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20B/",
+            "Classical Greek": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Classical%20Greek/",
+            "Danish ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Danish%20ab%20initio/",
+            "Danish B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Danish%20B/",
+            "Dutch B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Dutch%20B/",
+            "English ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/English%20ab%20initio/",
+            "English B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/English%20B/",
+            "English B and ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/English%20B%20and%20ab%20initio/",
+            "Finnish B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Finnish%20B/",
+            "French ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/French%20ab%20initio/",
+            "French B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/French%20B/",
+            "French B and ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/French%20B%20and%20ab%20initio/",
+            "German ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/German%20ab%20initio/",
+            "German B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/German%20B/",
+            "Hebrew B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Hebrew%20B/",
+            "Hindi B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Hindi%20B/",
+            "Indonesian ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Indonesian%20ab%20initio/",
+            "Indonesian B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Indonesian%20B/",
+            "Italian ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Italian%20ab%20initio/",
+            "Italian B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Italian%20B/",
+            "Japanese ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Japanese%20ab%20initio/",
+            "Japanese B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Japanese%20B/",
+            "Korean B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Korean%20B/",
+            "Latin": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Latin/",
+            "Malay B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Malay%20B/",
+            "Norweigan B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Norweigan%20B/",
+            "Portuguese B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Portuguese%20B/",
+            "Russian ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Russian%20ab%20initio/",
+            "Russian B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Russian%20B/",
+            "Spanish ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Spanish%20ab%20initio/",
+            "Spanish B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Spanish%20B/",
+            "Spanish B and ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Spanish%20B%20and%20ab%20initio/",
+            "Swahili ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swahili%20ab%20initio/",
+            "Swahili B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swahili%20B/",
+            "Swedish ab initio": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swedish%20ab%20initio/",
+            "Swedish B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swedish%20B/",
+            "Tamil B": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Tamil%20B/"
+        },
+        "Group 3 - Individuals and Societies": {
+            "Art History": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Art%20History/",
+            "Brazilian Social Studies": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Brazilian%20Social%20Studies/",
+            "Business Management": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Business%20Management/",
+            "Economics": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Economics/",
+            "Geography": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Geography/",
+            "Global Politics": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Global%20Politics/",
+            "History": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/History/",
+            "Information Technology in a Global Society": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Information%20Technology%20in%20a%20Global%20Society/",
+            "Philosophy": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Philosophy/",
+            "Political Thought": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Political%20Thought/",
+            "Psychology": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Psychology/",
+            "Social and Cultural Anthropology": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Social%20and%20Cultural%20Anthropology/",
+            "Turkey in the 20th Century": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Turkey%20in%20the%2020th%20Century/",
+            "World Religions": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/World%20Religions/"
+        },
+        "Group 4 - Sciences": {
+            "Biology": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Biology/",
+            "Chemistry": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Chemistry/",
+            "Computer Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Computer%20Science/",
+            "Design Technology": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Design%20Technology/",
+            "Environmental Systems and Societies": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Environmental%20Systems%20and%20Societies/",
+            "Nature of Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Nature%20of%20Science/",
+            "Physics": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Physics/",
+            "Sports, Exercise and Health Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Sports%2C%20Exercise%20and%20Health%20Science/"
+        },
+        "Group 5 - Mathematics": {
+            "Analysis and Approaches SL and HL": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Analysis%20and%20Approaches%20SL%20and%20HL/",
+            "Applications and Interpretations SL and HL": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Applications%20and%20Interpretations%20SL%20and%20HL/",
+            "Further Mathematics": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Further%20Mathematics/",
+            "Higher Level": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Higher%20Level/",
+            "Mathematical Studies": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Mathematical%20Studies/",
+            "Standard Level": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Standard%20Level/"
+        },
+        "Group 6 - The Arts": {
+            "Literature and Performance": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%206%20-%20The%20Arts/Literature%20and%20Performance/",
+            "Music": "https://gateway.ibdocs.org/IB%20SPECIMEN%20PAPERS/Group%206%20-%20The%20Arts/Music/"
+        }
+    },
+    "IB SUBJECT GUIDES": {
+        "Core - Creativity, Activity and Service": {
+            "Creativity, Activity and Service Guide - 2003 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202003%20-%20English.pdf",
+            "Creativity, Activity and Service Guide - 2017 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20English.pdf",
+            "Creativity, Activity and Service Guide - 2017 - French": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20French.pdf",
+            "Creativity, Activity and Service Guide - 2017 - Japanese": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20Japanese.pdf",
+            "Creativity, Activity and Service Guide - 2017 - Spanish": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20Spanish.pdf"
+        },
+        "Core - Extended Essay": {
+            "Extended Essay Guide 1999 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%201999%20-%20English.pdf",
+            "Extended Essay Guide 1999 - Spanish": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%201999%20-%20Spanish.pdf",
+            "Extended Essay Guide 2009 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202009%20-%20English.pdf",
+            "Extended Essay Guide 2013 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202013%20-%20English.pdf",
+            "Extended Essay Guide 2018 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20English.pdf",
+            "Extended Essay Guide 2018 - French": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20French.pdf",
+            "Extended Essay Guide 2018 - Japanese": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20Japanese.pdf",
+            "Extended Essay Guide 2018 - Spanish": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20Spanish.pdf"
+        },
+        "Core - Theory Of Knowledge": {
+            "Theory Of Knowledge Guide 2001 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202001%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2008 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202008%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2015 - Chinese": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20Chinese.pdf",
+            "Theory Of Knowledge Guide 2015 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2015 - French": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20French.pdf",
+            "Theory Of Knowledge Guide 2015 - German": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20German.pdf",
+            "Theory Of Knowledge Guide 2015 - Japanese": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20Japanese.pdf",
+            "Theory Of Knowledge Guide 2015 - Spanish": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20Spanish.pdf",
+            "Theory Of Knowledge Guide 2020 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202020%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2020 - Spanish": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202020%20-%20Spanish.pdf"
+        },
+        "Group 1 - Studies in Language and Literature": {
+            "Language A - Language and Literature": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A%20-%20Language%20and%20Literature/",
+            "Language A - Literature": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A%20-%20Literature/",
+            "Language A1 Guide 2001 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A1%20Guide%202001%20-%20English.pdf",
+            "Language A2 Guide 2004 - English": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A2%20Guide%202004%20-%20English.pdf"
+        },
+        "Group 2 - Language Acquisition": {
+            "Classical Languages": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%202%20-%20Language%20Acquisition/Classical%20Languages/",
+            "Language ab initio": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%202%20-%20Language%20Acquisition/Language%20ab%20initio/",
+            "Language B": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%202%20-%20Language%20Acquisition/Language%20B/"
+        },
+        "Group 3 - Individuals and Societies": {
+            "Art History": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Art%20History/",
+            "Brazilian Social Studies": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Brazilian%20Social%20Studies/",
+            "Business Management": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Business%20Management/",
+            "Classical Greek and Roman Studies": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Classical%20Greek%20and%20Roman%20Studies/",
+            "Economics": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Economics/",
+            "Geography": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Geography/",
+            "Global Politics": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Global%20Politics/",
+            "Information Technology in a Global Society": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Information%20Technology%20in%20a%20Global%20Society/",
+            "Philosophy": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Philosophy/",
+            "Political Thought": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Political%20Thought/",
+            "Psychology": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Psychology/",
+            "Social and Cultural Anthropology": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Social%20and%20Cultural%20Anthropology/",
+            "Turkey in the 20th Century": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Turkey%20in%20the%2020th%20Century/",
+            "World Arts and Cultures": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/World%20Arts%20and%20Cultures/",
+            "World Religions": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/World%20Religions/"
+        },
+        "Group 4 - Sciences": {
+            "Astronomy": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Astronomy/",
+            "Biology": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Biology/",
+            "Chemistry": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Chemistry/",
+            "Computer Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Computer%20Science/",
+            "Design Technology": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Design%20Technology/",
+            "Environmental Systems and Societies": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Environmental%20Systems%20and%20Societies/",
+            "Food Science and Technology": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Food%20Science%20and%20Technology/",
+            "Nature of Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Nature%20of%20Science/",
+            "Physics": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Physics/",
+            "Sports, Exercise and Health Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Sports%2C%20Exercise%20and%20Health%20Science/"
+        },
+        "Group 5 - Mathematics": {
+            "Further Mathematics": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Further%20Mathematics/",
+            "Mathematical Studies": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematical%20Studies/",
+            "Mathematics Analysis and Approahces": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20Analysis%20and%20Approaches/",
+            "Mathematics Applications and Interpretation": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20Applications%20and%20Interpretation/",
+            "Mathematics HL": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20HL/",
+            "Mathematics SL": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20SL/"
+        },
+        "Group 6 - The Arts": {
+            "Dance": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Dance/",
+            "Film": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Film/",
+            "Literature and Performance": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Literature%20and%20Performance/",
+            "Music": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Music/",
+            "Theatre": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Theatre/",
+            "Visual Arts": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Visual%20Arts/"
+        }
+    },
+    "IB SUBJECT REPORTS": {
+        "Core - Extended Essay": {
+            "ENGLISH": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Core%20-%20Extended%20Essay/ENGLISH/",
+            "FRENCH": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Core%20-%20Extended%20Essay/FRENCH/"
+        },
+        "Core - Theory Of Knowledge": {
+            "CHINESE": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/CHINESE/",
+            "ENGLISH": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/ENGLISH/",
+            "FRENCH": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/FRENCH/",
+            "GERMAN": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/GERMAN/"
+        },
+        "Group 1 - Studies in Language and Literature": {
+            "Language and Literature": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20and%20Literature/",
+            "Literature": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Literature/"
+        },
+        "Group 2 - Language Acquisition": {
+            "Classical Languages": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%202%20-%20Language%20Acquisition/Classical%20Languages/",
+            "Language ab initio": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%202%20-%20Language%20Acquisition/Language%20ab%20initio/",
+            "Language B": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%202%20-%20Language%20Acquisition/Language%20B/"
+        },
+        "Group 3 - Individuals and Societies": {
+            "Art History": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Art%20History/",
+            "Brazilian Social Studies": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Brazilian%20Social%20Studies/",
+            "Business Management": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Business%20Management/",
+            "Classical Greek and Roman Studies": "https://gateway.ibdocs.org/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Classical%20Greek%20and%20Roman%20Studies/",
+            "Economics": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Economics/",
+            "Geography": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Geography/",
+            "Global Politics": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Global%20Politics/",
+            "History": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/History/",
+            "Information Technology in a Global Society": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Information%20Technology%20in%20a%20Global%20Society/",
+            "Peace and Conflict Studies": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Peace%20and%20Conflict%20Studies/",
+            "Philosophy": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Philosophy/",
+            "Political Thought": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Political%20Thought/",
+            "Politics": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Politics/",
+            "Psychology": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Psychology/",
+            "Social and Cultural Anthropology": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Social%20and%20Cultural%20Anthropology/",
+            "Turkey in the 20th Century": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Turkey%20in%20the%2020th%20Century/",
+            "World Politics": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/World%20Politics/",
+            "World Religions": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/World%20Religions/"
+        },
+        "Group 4 - Sciences": {
+            "Astronomy": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Astronomy/",
+            "Biology": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Biology/",
+            "Chemistry": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Chemistry/",
+            "Computer Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Computer%20Science/",
+            "Design Technology": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Design%20Technology/",
+            "Environmental Systems and Societies": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Environmental%20Systems%20and%20Societies/",
+            "Marine Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Marine%20Science/",
+            "Nature of Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Nature%20of%20Science/",
+            "Physics": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Physics/",
+            "Sports, Exercise and Health Science": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Sports%2C%20Exercise%20and%20Health%20Science/"
+        },
+        "Group 5 - Mathematics": {
+            "Further Mathematics": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Further%20Mathematics/",
+            "Mathematical Studies": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Mathematical%20Studies/",
+            "Mathematics HL": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Mathematics%20HL/",
+            "Mathematics SL": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Mathematics%20SL/"
+        },
+        "Group 6 - The Arts": {
+            "Dance": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Dance/",
+            "Film": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Film/",
+            "Literature and Performance": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Literature%20and%20Performance/",
+            "Music": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Music/",
+            "Theatre": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Theatre/",
+            "Visual Arts": "https://gateway.ibdocs.org/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Visual%20Arts/"
+        }
+    },
+    "Others": {
+        "Useful Links": {
+            "QuestionBanks V5": "https://qbv5.ibsupport.pm",
+            "QuestionBanks V4 (outdated)": "https://qb.ibsupport.pm"
+        },
+        "Resources": {
+            "MYP": "https://gateway.ibdocs.org/MYP/",
+            "PYP": "https://gateway.ibdocs.org/PYP/",
+            "RV": "https://gateway.ibdocs.org/R-V/",
+            "theoryofknowledge.net": "https://gateway.ibdocs.org/theoryofknowledge.net/"
+        }
+    }
+}

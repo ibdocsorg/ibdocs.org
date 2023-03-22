@@ -1,0 +1,33 @@
+<nav class="navbar is-info is-fixed-top" role="navigation" aria-label="main navigation">
+  <div class="container" id="container">
+    <div class="navbar-brand">
+        <img class="navlogo" width="50" height="50" src="/img/favicon.png">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBasicExample" class="navbar-menu">
+      <div class="navbar-start">
+        <a href="/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">
+          <span class="icon-text">
+            <span class="icon">
+              <i class="fa-solid fa-home"></i>
+            </span>
+            <span>Home</span>
+          </span>
+        </a>
+		<a href="/downloads/" class="navbar-item {% if page.url == "/downloads/" %}is-active{% endif %}">
+          <span class="icon-text">
+            <span class="icon">
+              <i class="fa-solid fa-download"></i>
+            </span>
+            <span>Downloads</span>
+          </span>
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>

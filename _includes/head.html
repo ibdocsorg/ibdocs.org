@@ -1,0 +1,19 @@
+<!-- Compatibility -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="#ECA2AF" name="theme-color">
+<!-- Metadata -->
+<meta content="{% if page.description %}{{ page.description }}{% else %} {% endif %}" name="description">
+<meta content="ibdocs.org" name="keywords">
+<!-- Open Graph -->
+<meta content="{% if page.description %}{{ page.description }}{% else %}{% endif %}" name="og:description">
+<meta content="./img/favicon.png" property="og:image">
+<meta content="{% if page.title %}{{ page.title }} - ibdocs.org{% else %}ibdocs.org{% endif %}" property="og:title">
+<meta content="website" property="og:type">
+<meta content="{% if page.url %}https://ibdocs.org{{ page.url }}{% else %}{% endif %}" property="og:url">
+<!-- Twitter/Discord Metadata -->
+<meta content="summary" name="twitter:card">
+<meta content="{% if page.description %}{{ page.description }}{% else %}{% endif %}" name="twitter:description">
+<meta content="./img/favicon.png" name="twitter:image">
+<!-- Favicon -->
+<link href="{% if page.url == "/discord/" %}/img/Discord-Logo-Color.png{% else %}/img/favicon.png{% endif %}" rel="icon">

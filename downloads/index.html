@@ -1,0 +1,72 @@
+---
+title: Downloads
+description: Download from our massive collection with ease.
+permalink: /downloads/
+layout: default
+---
+    <style>
+        .dropdown-item {
+            min-width: 40vh;
+            max-width: 90vw;
+            text-align-last: center;
+            margin-bottom: 1em;
+        }
+
+        .buttom {
+            margin-bottom: 0.5em;
+        }
+    </style>
+    <section class="hero is-info is-bold">
+        <div class="hero-body container has-text-centered">
+          <p class="title">
+            {{ page.title }}
+        </p>
+        </div>
+      </section>
+	  {% include nojs.html %}
+        <div class="container">
+            <br />
+                <div class="has-text-centered">
+                    <div class="columns is-desktop is-vcentered is-centered">
+                        <div class="column is-narrow">
+                            <p class="dropdown">
+                                <select class="dropdown-item" name="Product type" id="type" autocomplete="off"
+                                    onchange="updateVersions()">
+                                    <option disabled selected value="placeholder">
+                                        ---- Choose category ----
+                                    </option>
+                                </select>
+                            </p>
+                            <br />
+                            <p class="dropdown">
+                                <select class="dropdown-item" name="Product version" id="version" autocomplete="off"
+                                    onchange="updateEditions()">
+                                    <option disabled selected value="placeholder">
+                                        ---- Choose option ----
+                                    </option>
+                                </select>
+                            </p>
+                            <br />
+                            <p class="dropdown">
+                                <select class="dropdown-item" name="Product edition" id="edition" autocomplete="off"
+                                    onchange="updateURL()">
+                                    <option disabled selected value="placeholder">
+                                        ---- Choose option ----
+                                    </option>
+                                </select>
+                            </p>
+                            <br />
+                            <p class="button is-rounded" id="downloadP">
+                                <a id="download">DOWNLOAD</a>
+                            </p>
+                            <br /><br />
+                            <div class="notification">
+                                <i class="fa-solid fa-circle-info"></i> If you need to enter a password, go to r/pirateIB or contact
+                                <span style="font-family: monospace">aimless#9999 at Discord</span>.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    <!-- Script tags here! -->
+    <script src="./listing.js"></script>
